@@ -1,5 +1,5 @@
 fun main() {
-    var healthPoints: Int = 13;
+    var healthPoints: Int = 100;
     val playerNmae: String = "Madrigal";
     var isBlessed: Boolean = false;
 
